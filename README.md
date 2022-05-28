@@ -147,25 +147,49 @@ plt.axis("off")
 ```
 
 ## OUTPUT:
-### 1. Smoothing Filters![output](eiff1.png)
+### 1. Smoothing Filters
 
 i) Using Averaging Filter
+
+
 ![output](eiff1.png)
+
+
 ii) Using Weighted Averaging Filter
+
+
 ![output](eiff2.png)
 
+
+
 iii) Using Gaussian Filter
+
+
 ![output](eiff3.png)
 
+
+
 iv) Using Median Filter
+
+
 ![output](eiff4.png)
+
+
 ### 2. Sharpening Filters
 
 
 i) Using Laplacian Kernal
+
+
 ![output](eiff5.png)
 
+
+
 ii) Using Laplacian Operator
+
+
 ![output](eiff6.png)
+
+
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
